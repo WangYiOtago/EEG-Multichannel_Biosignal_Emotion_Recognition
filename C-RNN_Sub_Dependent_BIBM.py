@@ -1,6 +1,7 @@
 
 from __future__ import print_function
 import numpy as np
+# change on my Desktop
 
 from keras.models import Sequential
 
